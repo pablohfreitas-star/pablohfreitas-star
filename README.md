@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Pablo Henrique Petry de Freitas
 
-🎓 Estudante da Aprendizagem Industrial em programador de sistemas de informação  
+🎓 Estudante da Aprendizagem Industrial em Programador de sistemas de informação.(SENAI) contratado pela empresa Grupo Farenzena  
+🎓Estudante do 9° ano da escola Centro Municipal de Educação Integrada de Salto Veloso Professor Riquelmo Francisco Pasin
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
